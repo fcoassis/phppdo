@@ -1,0 +1,23 @@
+CREATE DATABASE pdo;
+CREATE TABLE alunos(id INT AUTO_INCREMENT PRIMARY KEY, nome VARCHAR(255), nota INT(3);
+INSERT INTO alunos(nome,nota) VALUES('João', 5);
+INSERT INTO alunos(nome,nota) VALUES('José', 10);
+INSERT INTO alunos(nome,nota) VALUES('Joaquim', 15);
+INSERT INTO alunos(nome,nota) VALUES('Maria', 20);
+INSERT INTO alunos(nome,nota) VALUES('Wesley', 25);
+INSERT INTO alunos(nome,nota) VALUES('Antônio', 30);
+INSERT INTO alunos(nome,nota) VALUES('Mário', 35);
+INSERT INTO alunos(nome,nota) VALUES('Francisco', 40);
+INSERT INTO alunos(nome,nota) VALUES('Felipe', 45);
+INSERT INTO alunos(nome,nota) VALUES('Patrícia', 50);
+INSERT INTO alunos(nome,nota) VALUES('Lívia', 55);
+INSERT INTO alunos(nome,nota) VALUES('Paulo', 60);
+INSERT INTO alunos(nome,nota) VALUES('Joana', 65);
+INSERT INTO alunos(nome,nota) VALUES('Paula', 70);
+INSERT INTO alunos(nome,nota) VALUES('Sandra', 75);
+INSERT INTO alunos(nome,nota) VALUES('Wendell', 80);
+INSERT INTO alunos(nome,nota) VALUES('Rudny', 85);
+INSERT INTO alunos(nome,nota) VALUES('Fabiane', 90);
+INSERT INTO alunos(nome,nota) VALUES('Gilson', 95);
+INSERT INTO alunos(nome,nota) VALUES('Karina', 100);
+
